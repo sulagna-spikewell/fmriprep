@@ -23,7 +23,7 @@
 # SOFTWARE.
 
 # Ubuntu 22.04 LTS - Jammy
-ARG BASE_IMAGE=ubuntu:jammy-20240125
+ARG BASE_IMAGE=ubuntu:22.04
 
 #
 # Build wheel
